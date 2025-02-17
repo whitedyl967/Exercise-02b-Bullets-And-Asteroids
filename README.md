@@ -1,20 +1,10 @@
-# Exercise-02b-Bullets-And-Asteroids
+#Project 2 Space Shooter
 
-Exercise for MSCH-C220
+## My name is:
+Dylan White
 
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
+## My github username is:
+whitedyl
 
-## Implementation
+## I have completed exercise Project 2 Space Shooter
 
-Created using [Unity 2022.3.45f](https://unity.com)
-
-Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
-
-## References
-None
-
-## Future Development
-None
-
-## Created by
-Nathan Mishler
